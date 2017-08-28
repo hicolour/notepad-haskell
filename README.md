@@ -4,6 +4,7 @@
 
 ### Learning
 
+* https://lotz84.github.io/haskellbyexample/
 * http://learnyouahaskell.com/
 * https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
 
