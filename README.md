@@ -7,6 +7,7 @@
 * http://learnyouahaskell.com/
 * https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
 
+* https://docs.haskellstack.org/
 
 
 ### Initial setup
