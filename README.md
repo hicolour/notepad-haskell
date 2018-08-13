@@ -10,6 +10,10 @@
 
 * https://docs.haskellstack.org/
 
+### Blog posts
+
+* http://cvlad.info/haskell/
+
 
 ### Initial setup
 
