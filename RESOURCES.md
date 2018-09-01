@@ -4,6 +4,7 @@
 
 ### Learning
 
+* CIS194 - http://www.seas.upenn.edu/~cis194/fall16/
 * https://lotz84.github.io/haskellbyexample/
 * http://learnyouahaskell.com/
 * https://github.com/Gabriel439/post-rfc/blob/master/sotu.md
