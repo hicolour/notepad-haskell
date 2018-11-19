@@ -27,10 +27,10 @@ Atom:
 * https://atom.io/packages/ide-haskell#configuration
 
 Emacs:
-https://commercialhaskell.github.io/intero/
-https://emacsclub.github.io/html/haskell.html
-https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/emacs.pdf
-https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
+* https://commercialhaskell.github.io/intero/
+* https://emacsclub.github.io/html/haskell.html
+* https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/emacs.pdf
+* https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
 
 
 
