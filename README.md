@@ -19,6 +19,22 @@ stack build
 
 ```
 
+### env setup
+
+Atom:
+* https://github.com/simonmichael/haskell-atom-setup
+* http://www.jkrause.io/blog/2016/03/26/setup-atom-io-for-developing-haskell-on-osx/
+* https://atom.io/packages/ide-haskell#configuration
+
+Emacs:
+https://commercialhaskell.github.io/intero/
+https://emacsclub.github.io/html/haskell.html
+https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/emacs.pdf
+https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md
+
+
+
+https://caiorss.github.io/Functional-Programming/haskell/Haskell.html
 
 
 ### Learning
