@@ -47,11 +47,13 @@ https://caiorss.github.io/Functional-Programming/haskell/Haskell.html
 
 * https://docs.haskellstack.org/
 
-### Blog posts
+### Varia
 
 * Haskel in production @ [Felix Mulder](https://twitter.com/FelixMulder)
     * [Haskel in production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
     * [Talk: Brave New World: Tales of PureScript and Haskell in Production](https://www.youtube.com/watch?v=2SAQNO46V3U)
+    
+* [5 Years of Haskell in Production](https://www.youtube.com/watch?v=hZgW4mT1PkE)
 
 * http://cvlad.info/haskell/
 
