@@ -49,6 +49,8 @@ https://caiorss.github.io/Functional-Programming/haskell/Haskell.html
 
 ### Blog posts
 
+* [Haskel in production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
+
 * http://cvlad.info/haskell/
 
 
