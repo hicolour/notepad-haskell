@@ -38,7 +38,7 @@ https://caiorss.github.io/Functional-Programming/haskell/Haskell.html
 
 
 ### Learning
-
+* [Haskell intro tutorial for beginners](https://her.esy.fun/posts/0010-Haskell-Now/index.html#install)
 
 * CIS194 - http://www.seas.upenn.edu/~cis194/fall16/ (http://www.cis.upenn.edu/~cis194/spring13/lectures.html)
 * https://lotz84.github.io/haskellbyexample/
